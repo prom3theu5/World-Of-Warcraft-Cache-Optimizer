@@ -1,0 +1,16 @@
+******************
+
+World Of Warcraft: Cache Cleaner - Gimme Back My Bytes - Nom Nom Nom, Nom Nom Nom
+
+
+This is a very very simple application, to help users with space limitations, or those running on SSDs that want to keep the 18GB free space rule.
+What it does is removes The Cache and Data\Cache directories recursively.
+This only clears databases, and loaded files from visited instances etc..
+None of your Settings will be lost
+
+The path is saved to the registry for the next time you open it.
+Nothing more - Nothing less...
+
+Ask for features - i.e. addon backups etc, and I'll implement them - or take the code and do it yourself. Just a little starting point really :D
+
+******************
