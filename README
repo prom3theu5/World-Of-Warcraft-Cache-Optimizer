@@ -3,7 +3,7 @@
 World Of Warcraft: Cache Cleaner - Gimme Back My Bytes - Nom Nom Nom, Nom Nom Nom
 
 
-This is a very very simple application, to help users with space limitations, or those running on SSDs that want to keep the 18GB free space rule.
+This is a very very simple application, to help users with space limitations, or those running on SSDs that want to keep the 20% freespace rule.
 What it does is removes The Cache and Data\Cache directories recursively.
 This only clears databases, and loaded files from visited instances etc..
 None of your Settings will be lost
